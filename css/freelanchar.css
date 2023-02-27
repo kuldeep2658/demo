@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .flex h1 {
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 30px;
+     color: #0e1724;
+
+ }
+ .flex p {
+    font-size: 40px;
+    padding-left: 100px;
+     
+ }
+ .flex-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.flex-container img {
+    width: 90px;
+    height: 80px;
+    margin: 10px 0;
+    
+}
