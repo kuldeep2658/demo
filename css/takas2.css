@@ -14,10 +14,30 @@ body {
     margin: 0 auto;
 }
 .main-title h2 {
-    font-size: 41px;
+    font-size: 60px;
     margin-bottom: 30px;
 }
 .mian-title p {
-    font-size: 24px;
+    font-size: 41px;
     margin-bottom: 30px;
 }
+.main-box {
+    display: flex;
+}
+.main-box .data {
+    width: 340px;
+    height: 190px;
+}
+.main-box .data img {
+    width: 80px;
+    height: 80px;
+}
+.main-box .data h3 {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+.container .main-title p {
+    font-size: 33px;
+}
+
