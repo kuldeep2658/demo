@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#possibilities {
+    max-width: 1400px;
+    margin: 80px auto;
+}
+.container {
+    display: flex;
+}
+.main-tital h2 {
+    font-size: 85px;
+    margin-bottom: 45px;
+    margin: 50px;
+
+}
+.main-tital p {
+    font-size: 40px;
+    margin: 50px auto;
+}
+.project img {
+    width: 200px;
+    height: 250px;
+    margin-bottom: 50px auto;
+}

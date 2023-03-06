@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 2400px;
+    margin: 0 auto;
+    display: flex;
+}
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+.img {
+    width: 55%;
+}
+#work {
+    margin: 20px 0;
+}
+.data {
+    padding: 70px;
+    padding-bottom: 40%;
+    width: 50%;
+}
+.data h2 {
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+.data h3 {
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.data p {
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+button {
+    background-color: rgb(209, 46, 114);
+    border: none;
+    padding: 25px;
+    border-radius: 9px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;     
+}
+
+.control h2 {
+    font-size: 80px;
+    margin-left: 140px;
+    margin-bottom: 50px;
+    
+}
+.control p {
+    font-size: 45px;
+    margin-left: 140px;
+    margin-bottom: 70px;
+}
+.chat img {
+    margin-left: 140px;
+}
+.message h2 {
+    font-size: 40px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+    
+}
+.message  p {
+    font-size: 30px;
+    margin-left: 136px;
+    
+}
